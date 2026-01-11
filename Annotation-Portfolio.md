@@ -34,13 +34,13 @@ From image/video bounding boxes to audio and ad classification, I’ve delivered
 
 📍 
 ### 📸 Calibration Overview  
-![Overview]([link](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/annotation-BB-2025_26-dashboard.jpeg))
+![Overview](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/annotation-BB-2025_26-dashboard.jpeg)
 
 ### 📸 Bounding Box Sample – Scene 1  
-![Sample 1]([link](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/Screenshot%20from%202026-01-11%2012-21-40.png))
+![Sample 1](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/Screenshot%20from%202026-01-11%2012-21-40.png)
 
 ### 📸 Bounding Box Sample – Scene 2  
-![Sample 2]([link](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/Screenshot%20from%202026-01-11%2012-21-21.png))
+![Sample 2](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/Screenshot%20from%202026-01-11%2012-21-21.png)
 
 ---
 
