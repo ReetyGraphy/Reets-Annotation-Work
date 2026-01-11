@@ -12,7 +12,7 @@ From image/video bounding boxes to audio and ad classification, I’ve delivered
 - **Video Frame Matching**: Cross-frame consistency, occlusion handling  
 - **Audio & Ad Annotation**: Instruction-based label tagging  
 - **Map QA**: Guideline-based rating (training completed)  
-- **Production Stats**:  
+- **Recent Production Stats**:  
   - Objects Labeled: 3,248+  
   - Total Labels: 120 tasks  
   - Time per label: ~10 min  
@@ -32,7 +32,11 @@ From image/video bounding boxes to audio and ad classification, I’ve delivered
 
 > These screenshots are anonymized and do not reveal client or dataset information.
 
-📍 `Insert 3 screenshots here using GitHub image markdown once uploaded`
+📍 
+![Overview](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/annotation-BB-2025_26-dashboard.jpeg)
+![Sample 1](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/Screenshot%20from%202026-01-11%2012-21-40.png)
+![Sample 2](https://github.com/ReetyGraphy/Reets-Annotation-Work/blob/main/Screenshot%20from%202026-01-11%2012-21-21.png)
+
 
 ---
 
@@ -40,4 +44,4 @@ From image/video bounding boxes to audio and ad classification, I’ve delivered
 
 I’m available for annotation and evaluation work — especially for teams who value instruction fidelity and dense data handling.
 
-📧 **sourinsaha99.ss@gmail.com**
+📧 **sourin.saha.99.ss.1@gmail.com**
