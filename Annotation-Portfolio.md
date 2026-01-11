@@ -46,6 +46,6 @@ From image/video bounding boxes to audio and ad classification, I’ve delivered
 
 ## 💼 Let's Work Together :: I'm precise, instruction-compliant, and fast under deadlines — I treat data labeling like engineering.
 
-I’m available for annotation and evaluation work — especially for teams who value instruction fidelity and dense data handling.
+I’m available for annotation and evaluation work — especially for teams who value instruction fidelity and dense data handling :: Open to annotation, prompt evaluation, and QA work with AI/ML teams.
 
 📧 **sourin.saha.99.ss.1@gmail.com**
